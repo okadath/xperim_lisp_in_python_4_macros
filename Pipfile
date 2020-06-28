@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+asgiref = "==3.2.10"
+django-colorfield = "==0.3.1"
+django-countries = "==6.1.2"
+Django = "==3.0.7"
+pytz = "==2020.1"
+sqlparse = "==0.3.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
